@@ -57,5 +57,3 @@ export function getPointSum2(path){
   return pointSum;
 }
 
-
-console.log('getPointSum2("./input.text")',getPointSum2("./input.text"))
